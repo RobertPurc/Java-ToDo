@@ -8,10 +8,10 @@ Code exist in src file or below :
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
 public class Main {
 
     public static void main(String[] args){
+    
         System.out.println("Welcome in program called TO-DO list");
         System.out.println("Choose one option by writing a number");
         String myFirstTask = "Add a new task!";
