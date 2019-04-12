@@ -3,6 +3,9 @@ To-Do list wrote in Java language
 
 Code exist in src file or below :
 
+
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -35,7 +38,6 @@ public class Main {
 
                 case "3":
                     System.out.println("Deleted first task");
-//                    String newTask = input.nextLine();
                     tasks.remove(0);
                     break;
                 case "4":
