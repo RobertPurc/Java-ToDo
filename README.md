@@ -1,7 +1,7 @@
 # Java-ToDo
 To-Do list wrote in Java language
 
-Code exist in src file or below :
+Code exist in src directory or below :
 
 
 
